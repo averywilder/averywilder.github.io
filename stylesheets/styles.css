@@ -4,6 +4,7 @@
  background-color: grey;
  margin: 0;
  padding: 0;
+ display: block;
 }
 #menu-logo img{
   height: 100%;

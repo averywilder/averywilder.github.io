@@ -5,6 +5,7 @@
  margin: 0;
  padding: 0;
  display: block;
+ vertical-align: baseline;
 }
 #menu-logo img{
   height: 100%;

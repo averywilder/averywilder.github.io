@@ -11,13 +11,16 @@
 
 }
 
-#hostfooter, #nameheader{
+#hostfooter{
   text-align: center;
   font-family: 'Buskerville Small Caps';
 
 
 }
-#testp{
+#nameheader{
+  text-align: center;
   font-family: 'Buskerville Small Caps';
-  font-size: 25pt;
+  font-size: 35px;
+
+
 }

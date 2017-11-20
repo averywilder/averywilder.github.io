@@ -14,7 +14,8 @@
 #hostfooter{
   text-align: center;
   font-family: 'Buskerville Small Caps';
-  vertical-align: bottom;
+  position: absolute;
+  bottom: 0;
 
 
 }

@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'baskerville_small_casmallcaps';
+    font-family: 'Buskerville Small Caps';
     src: url('css/fonts/basker_small_caps-webfont.eot');
     src: url('css/fonts/basker_small_caps-webfont.eot?#iefix') format('embedded-opentype'),
          url('css/fonts/basker_small_caps-webfont.woff2') format('woff2'),
@@ -13,7 +13,7 @@
 
 #hostfooter{
   text-align: center;
-  font-family: 'baskerville_small_casmallcaps';
+  font-family: 'Buskerville Small Caps';
 
 }
 #testp{

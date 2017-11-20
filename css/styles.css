@@ -40,9 +40,6 @@
   transform: translate(-50%,-50%);
 }
 #subtitle{
-  position: absolute;
-  left: 50%;
-  transform: translate(-50%,-50%);
-  font-style: italic;
   
+
 }

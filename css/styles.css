@@ -36,5 +36,6 @@
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
     width: 75%;
     position: absolute;
+    left: 50%;
     transform: translate(-50%,-50%);
 }

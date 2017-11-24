@@ -23,15 +23,16 @@
 }
 #linkTableDiv{
     font-family: 'Buskerville Small Caps';
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,-50%);
 }
 #linktable{
   font-family: 'Buskerville Small Caps';
   text-align: center;
   width: 60%;
   padding: 10px;
-  position: absolute;
-  left: 50%;
-  transform: translate(-50%,-50%);
+
 }
 #nameheader{
   text-align: center;

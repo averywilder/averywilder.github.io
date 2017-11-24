@@ -10,7 +10,7 @@
     font-style: normal;
 
 }
-.container-fluid.a {
+a {
   color:inherit;
   text-decoration: none;
  }
@@ -81,7 +81,7 @@ li.listMiddle{
   transform: translate(-50%,-50%);
   text-align: center
 }
-.contactInfo.a{}
+
 .contactContent{
   color: #707070;
 }

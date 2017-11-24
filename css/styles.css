@@ -30,11 +30,15 @@ a {
     font-family: 'Buskerville Small Caps';
     position: absolute;
     left: 50%;
-    transform: translate(-60%,-60%);
+    transform: translate(-55%,-55%);
 }
 li{
   display: inline;
   list-style: none;
+}
+li.listMiddle{
+  padding-left: 15px;
+  padding-right: 15px;
 }
 #nameheader{
   text-align: center;

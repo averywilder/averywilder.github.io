@@ -11,7 +11,7 @@
                 templateUrl:'/about.html'
             })
             .when('/contact',{
-              templateUrl:'/contact.html'
+                templateUrl:'/contact.html'
             })
             .otherwise({ redirectTo:'/'});
     });

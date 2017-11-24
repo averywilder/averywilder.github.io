@@ -29,10 +29,10 @@ a {
 .container-fluid{
 
     font-family: 'Buskerville Small Caps';
-    top: 92px;
+    top: 110px;
     position: absolute;
     left: 50%;
-    transform: translate(-60%,0);
+    transform: translate(-60%,-50%);
     white-space: nowrap;
     overflow: hidden;
 
@@ -64,7 +64,7 @@ li.listMiddle{
   width: 75%;
   position: absolute;
   left: 50%;
-  top: 75px;
+  top: 90px;
   transform: translate(-50%,-50%);
 }
 #linebreakmid{
@@ -75,7 +75,7 @@ li.listMiddle{
   width: 75%;
   position: absolute;
   left: 50%;
-  top: 140px;
+  top: 130px;
   transform: translate(-50%,-50%);
 }
 #linebreakbot{

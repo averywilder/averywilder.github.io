@@ -30,7 +30,7 @@ a {
     font-family: 'Buskerville Small Caps';
     position: absolute;
     left: 50%;
-  
+    transform: translate(-55%,-55%);
 }
 li{
   display: inline;

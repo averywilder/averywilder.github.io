@@ -33,6 +33,7 @@ a {
     transform: translate(-60%,-55%);
 }
 li{
+  width: auto;
   display: inline;
   list-style: none;
   white-space: nowrap;

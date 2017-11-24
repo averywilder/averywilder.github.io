@@ -30,15 +30,16 @@
 
         <ul>
           <li ng-class="{ active: isActive('/')}"><a href="#/">art</a></li>
-          <li ng-class="{ active: isActive('/about')}"><a href="#/about">about</a></li>
+          <li class = "listMiddle" ng-class="{ active: isActive('/about')}"><a href="#/about">about</a></li>
           <li ng-class="{ active: isActive('/contact')}"><a href="#/contact">contact</a></li>
         </ul>
       </div>
     </nav>
   </header>
+  <br>
   <ng-view></ng-view>
 
- <script type="text/ng-template" id="art.html"><div>art test</div></script>
+<script type="text/ng-template" id="art.html"><div>art test</div></script>
 <script type="text/ng-template" id="about.html"><div>about test</div></script>
 <script type="text/ng-template" id="contact.html"><div>contact test</div></script>
    <footer>

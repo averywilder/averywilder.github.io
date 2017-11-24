@@ -29,7 +29,7 @@ a {
     margin-top: 1em;
     font-family: 'Buskerville Small Caps';
     position: absolute;
-    align-items: center;
+    vertical-align: middle;
     transform: translate(-60%,-55%);
 }
 li{

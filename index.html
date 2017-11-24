@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="css/styles.css"  type="text/css" charset="utf-8">
     <link rel="stylesheet" href="css/github-light.css"  type="text/css" charset="utf-8">
     <meta name="viewport" content="width=device-width">
+
+    <script data-require="angular.js@1.4.x" src="https://code.angularjs.org/1.4.9/angular.js" data-semver="1.4.9"></script>
+    <script data-require="angular.js@1.4.x" src="https://code.angularjs.org/1.4.9/angular-route.js" data-semver="1.4.9"></script>
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -27,15 +30,15 @@
 
           <div id="navBar">
             <nav>
-              <ul>
-                <li><a href="/pages/art.html">art</a></li>
-                <li class="listMiddle"><a href="/pages/about.html">about</a></li>
-                <li><a href="/pages/contact.html">contact</a></li>
+              <ul class = "nav">
+                <li ng-class="{ active: isActive('/')}" ><a href="#/">art</a></li>
+                <li class= "listMiddle" ng-class="{ active: isActive('/about')}"><a href="#/about">about</a></li>
+                <li ng-class="{ active: isActive('/contact')}"><a href="#/contact">contact</a></li>
 
               </ul>
             </nav>
           </div>
-
+<ng-view></ng-view>
 
 
 

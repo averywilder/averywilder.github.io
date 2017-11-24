@@ -29,14 +29,14 @@ a {
     margin-top: 1em;
     font-family: 'Buskerville Small Caps';
     position: absolute;
-    left: 50%;
+    align-items: center;
     transform: translate(-60%,-55%);
 }
 li{
 
   display: inline-block;
   list-style: none;
-  
+
 }
 li.listMiddle{
   padding-left: 15px;

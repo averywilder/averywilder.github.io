@@ -26,12 +26,14 @@ a {
 
 }
 #navBar{
-    
+
     font-family: 'Buskerville Small Caps';
 
     position: absolute;
     left: 50%;
     transform: translate(-60%,0);
+    white-space: nowrap;
+    overflow: hidden;
 
 }
 li{

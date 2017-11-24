@@ -5,13 +5,13 @@
     app.config(function ($routeProvider){
         $routeProvider
             .when('/',{
-                templateUrl:'/art.html'
+                templateUrl:'art.html'
             })
             .when('/about',{
-                templateUrl:'/about.html'
+                templateUrl:'about.html'
             })
             .when('/contact',{
-                templateUrl:'/contact.html'
+                templateUrl:'contact.html'
             })
             .otherwise({ redirectTo:'/'});
     });

@@ -92,6 +92,7 @@ li.listMiddle{
 #subtitle{
   font-style: italic;
   text-align: center;
+  color: #707070;
 
 }
 .labeltitle {
@@ -107,6 +108,7 @@ li.listMiddle{
 
 .contactContent{
   color: #707070;
+  font-style: italic;
 }
 #instalink{
   color: #707070;

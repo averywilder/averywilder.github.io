@@ -28,11 +28,14 @@ a {
 #navBar{
     margin-top: 1em;
     font-family: 'Buskerville Small Caps';
+
     position: absolute;
-    vertical-align: middle;
-    transform: translate(-60%,-55%);
+    left: 50%;
+    transform: translate(-60%,0);
+
 }
 li{
+
 
   display: inline-block;
   list-style: none;

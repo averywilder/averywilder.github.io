@@ -76,9 +76,10 @@ li.listMiddle{
 .contactInfo{
   position: absolute;
   left: 50%;
+  top: 50%;
   transform: translate(-50%,-50%);
   text-align: center
 }
 .contactContent{
-  color: #8e8e8e
+  color: #8e8e8e;
 }

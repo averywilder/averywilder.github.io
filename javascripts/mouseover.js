@@ -1,6 +1,6 @@
-function changeColor(x){
-  x.style.color="#707070";
+function changeColor(x,y){
+  x.style.color=y;
 }
-function changeColorBack(x){
-  x.style.color="#000000";
+function changeColorBack(x,y){
+  x.style.color=y;
 }

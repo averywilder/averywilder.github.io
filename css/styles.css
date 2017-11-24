@@ -74,7 +74,7 @@ li.listMiddle{
   width: 75%;
   position: absolute;
   left: 50%;
-  top:19%;
+  top: 140px;
   transform: translate(-50%,-50%);
 }
 #linebreakbot{

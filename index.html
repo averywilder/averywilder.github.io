@@ -23,7 +23,7 @@
       </div>
 
 
-      <hr id="linebreaktop">
+<hr id="linebreaktop">
       <br>
       <header>
     <nav ng-controller="HeaderController">
@@ -34,12 +34,13 @@
           <li class = "listMiddle" ng-class="{ active: isActive('/about')}"><a href="#/about">about</a></li>
           <li ng-class="{ active: isActive('/contact')}"><a href="#/contact">contact</a></li>
         </ul>
+
       </div>
     </nav>
   </header>
-
+  <hr id="linebreakmid"> 
   <br>
-<hr id="linebreakmid">
+
   <div id = "content"><ng-view></ng-view></div>
 
 <script type="text/ng-template" id="art.html"><div>art test</div></script>
@@ -49,6 +50,7 @@
   <br><br><div class = "labeltitle">Phone Number:</div><div class= "contactContent">502-314-6002</div>
   <br><br><div class = "labeltitle">Instagram: <br> <a href="https://instagram.com/avery_wilder"><div class = "classContent">@avery_wilder</div></a></div>
 </div></script>
+
 <hr id = "linebreakbot">
    <footer>
         <p id = "hostfooter"><small>Hosted on GitHub Pages &mdash; By Avery Wilder</small></p>

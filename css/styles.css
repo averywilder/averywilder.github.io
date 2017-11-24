@@ -23,7 +23,8 @@
 }
 #linktable{
   font-family: 'Buskerville Small Caps';
-  
+  text-align: center;
+  width: 35%;
 }
 #nameheader{
   text-align: center;

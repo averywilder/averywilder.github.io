@@ -33,10 +33,10 @@ a {
     transform: translate(-60%,-55%);
 }
 li{
-  width: auto;
-  display: inline;
+
+  display: inline-block;
   list-style: none;
-  white-space: nowrap;
+  
 }
 li.listMiddle{
   padding-left: 15px;

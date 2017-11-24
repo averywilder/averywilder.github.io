@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html ng-app='sampleApp'>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -18,20 +18,20 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
+
       <div id="nameheader">
           Avery Wilder
 
       </div>
       <div id="subtitle">artist</div>
 
-      </header>
+
       <hr id="linebreak">
       <br>
-
+      <header>
           <div id="navBar">
             <nav ng-controller= "HeaderController">
-              <ul class = "nav">
+              <ul class = "nav navbar-nav">
                 <li ng-class="{ active: isActive('/')}" ><a href="#/">art</a></li>
                 <li class= "listMiddle" ng-class="{ active: isActive('/about')}"><a href="#/about">about</a></li>
                 <li ng-class="{ active: isActive('/contact')}"><a href="#/contact">contact</a></li>
@@ -39,6 +39,7 @@
               </ul>
             </nav>
           </div>
+        </header>
 <ng-view></ng-view>
 
 

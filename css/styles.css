@@ -34,6 +34,7 @@ a {
 }
 li{
   display: inline;
+  list-style: none;
 }
 #nameheader{
   text-align: center;

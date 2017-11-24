@@ -21,10 +21,13 @@
 
 
 }
+#linkTableDiv{
+    font-family: 'Buskerville Small Caps';
+}
 #linktable{
   font-family: 'Buskerville Small Caps';
   text-align: center;
-  width: 35%;
+  width: 60%;
 }
 #nameheader{
   text-align: center;

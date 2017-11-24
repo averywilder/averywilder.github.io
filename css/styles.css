@@ -86,7 +86,7 @@ li.listMiddle{
   width: 75%;
   position: absolute;
   left: 50%;
-  bottom: 75px;
+  bottom: 60px;
   transform: translate(-50%,-50%);
 }
 #subtitle{
@@ -98,7 +98,7 @@ li.listMiddle{
   font-family: 'Buskerville Small Caps'
 }
 .contactInfo{
-  position: relative;
+  position: absolute;
   left: 50%;
   top: 50%;
   transform: translate(-50%,-50%);

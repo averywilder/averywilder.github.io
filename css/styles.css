@@ -10,10 +10,11 @@
     font-style: normal;
 
 }
-a {
+.container-fluid.a {
   color:inherit;
   text-decoration: none;
  }
+
 
 #hostfooter{
   text-align: center;
@@ -55,7 +56,7 @@ li.listMiddle{
 
 
 }
-#linebreak{
+.linebreak{
   border: 0;
   height: 1px;
   background: #333;
@@ -80,6 +81,7 @@ li.listMiddle{
   transform: translate(-50%,-50%);
   text-align: center
 }
+.contactInfo.a{}
 .contactContent{
   color: #707070;
 }

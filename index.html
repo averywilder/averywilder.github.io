@@ -23,7 +23,7 @@
       </div>
 
 
-      <hr id="linebreak">
+      <hr class="linebreak">
       <br>
       <header>
     <nav ng-controller="HeaderController">
@@ -37,7 +37,9 @@
       </div>
     </nav>
   </header>
+  <hr class="linebreak">
   <br>
+
   <div id = "content"><ng-view></ng-view></div>
 
 <script type="text/ng-template" id="art.html"><div>art test</div></script>
@@ -45,10 +47,11 @@
 <script type="text/ng-template" id="contact.html"><div class = "contactInfo">
   <br><br><div class = "labeltitle">Email:</div><div class = "contactContent">vrywldr@gmail.com</div>
   <br><br><div class = "labeltitle">Phone Number:</div><div class= "contactContent">502-314-6002</div>
-  <br><br><div class = "labeltitle">Instagram: <br> <a href="https://instagram.com/avery_wilder"><div class = "classContent">@averywilder</div></a></div>
+  <br><br><div class = "labeltitle">Instagram: <br> <a href="https://instagram.com/avery_wilder"><div class = "classContent">@avery_wilder</div></a></div>
 </div></script>
+
    <footer>
-        <p id = "hostfooter"><small>Hosted on GitHub Pages &mdash; By Avery Wilder</small></p>
+        <p id = "hostfooter"><hr id="linebreak"><small>Hosted on GitHub Pages &mdash; By Avery Wilder</small></p>
       </footer>
 </body>
 </html>

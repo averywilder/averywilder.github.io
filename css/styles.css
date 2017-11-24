@@ -27,7 +27,7 @@
     left: 50%;
     transform: translate(-50%,-50%);
 }
-#linktable{
+table#linktable{
   font-family: 'Buskerville Small Caps';
   text-align: center;
   width: 60%;

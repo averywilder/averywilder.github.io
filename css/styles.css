@@ -64,6 +64,7 @@ li.listMiddle{
   width: 75%;
   position: absolute;
   left: 50%;
+  top: 75px;
   transform: translate(-50%,-50%);
 }
 #linebreakmid{
@@ -85,7 +86,7 @@ li.listMiddle{
   width: 75%;
   position: absolute;
   left: 50%;
-  bottom: 8%;
+  bottom: 75px;
   transform: translate(-50%,-50%);
 }
 #subtitle{

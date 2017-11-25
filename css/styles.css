@@ -40,7 +40,7 @@ a {
 }
 li{
 
-  z-index: 0;
+
   display: inline-block;
   list-style: none;
 
@@ -185,7 +185,7 @@ li.listMiddle{
   transform: translate(-50%,-50%);
 }
 #headerBackground{
-  color: #FFFFFF;
+  color: #000000;
   width:100%;
 }
 #footerBackground{

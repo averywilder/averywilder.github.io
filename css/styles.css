@@ -60,7 +60,7 @@ li.listMiddle{
 
   font-family: 'Buskerville Small Caps';
   font-size: 35px;
-  top: 5px;
+  top: -25px;
 
 
 }
@@ -104,7 +104,7 @@ li.listMiddle{
 
   font-style: italic;
   color: #707070;
-
+  top:-25px;
 }
 
 .labeltitle {

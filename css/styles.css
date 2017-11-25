@@ -49,6 +49,9 @@ li.listMiddle{
   padding-left: 15px;
   padding-right: 15px;
 }
+#navHeader{
+  z-index: 1;
+}
 #nameheader{
   text-align: center;
   font-family: 'Buskerville Small Caps';

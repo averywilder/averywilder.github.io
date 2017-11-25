@@ -159,9 +159,9 @@ li.listMiddle{
 
 
 #selfportrait3{
-  height: 475px;
+  height: auto;
   max-width: 90%;
-  width: auto;
+  width: 475px;
   position: relative;
   left: 50%;
   top: 50%;

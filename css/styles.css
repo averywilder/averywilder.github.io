@@ -55,6 +55,7 @@ li.listMiddle{
 
 #nameheader{
   z-index: 2;
+  position: absolute;
   text-align: center;
   font-family: 'Buskerville Small Caps';
   font-size: 35px;
@@ -102,6 +103,7 @@ li.listMiddle{
 #subtitle{
   z-index: 2;
   top:50px;
+  position: absolute;
   font-style: italic;
   text-align: center;
   color: #707070;

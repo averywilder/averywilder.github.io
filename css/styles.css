@@ -52,7 +52,7 @@ li.listMiddle{
 }
 
 #nameheader{
-  z-index: 1;
+  z-index: 2;
   text-align: center;
   font-family: 'Buskerville Small Caps';
   font-size: 35px;
@@ -97,7 +97,7 @@ li.listMiddle{
   transform: translate(-50%,-50%);
 }
 #subtitle{
-  z-index: 1;
+  z-index: 2;
   font-style: italic;
   text-align: center;
   color: #707070;

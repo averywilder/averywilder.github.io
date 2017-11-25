@@ -18,7 +18,7 @@ a {
    overflow: hidden;
  }
  *{
-   border: 1px solid red;
+   border: 1px solid
  }
 #hostfooter{
   z-index: 1;
@@ -243,7 +243,7 @@ li.listMiddle{
   overflow: hidden;
 
 }
-#headerContainer{
+/*#headerContainer{
   background-color: white;
   position: absolute;
   width:100%;
@@ -251,4 +251,4 @@ li.listMiddle{
   text-align: center;
   vertical-align: middle;
   line-height: 40px;
-}
+}*/

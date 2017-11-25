@@ -40,7 +40,7 @@ a {
 }
 li{
 
-
+  z-index: 0;
   display: inline-block;
   list-style: none;
 

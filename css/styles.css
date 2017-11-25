@@ -54,12 +54,9 @@ li.listMiddle{
 }
 
 #nameheader{
-  z-index: 2;
-  position: absolute;
-  text-align: center;
+
   font-family: 'Buskerville Small Caps';
   font-size: 35px;
-  padding: -.25cm;
   top: 5px;
 
 
@@ -248,4 +245,9 @@ li.listMiddle{
 }
 #headerContainer{
   background-color: white;
+  position: absolute;
+  width:100%;
+  height:150px;
+  text-align: center;
+  vertical-align: middle;
 }

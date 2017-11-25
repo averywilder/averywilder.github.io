@@ -63,7 +63,7 @@ li.listMiddle{
   top: 5px;
   position: absolute;
   left: 50%;
-  transform: translate(-50%,0%);
+  transform: translate(-55%,0%);
   white-space: nowrap;
 
 }
@@ -110,7 +110,7 @@ li.listMiddle{
   top:80px;
   position: absolute;
   left: 50%;
-  transform: translate(-55%,-55%);
+  transform: translate(-60%,-55%);
 }
 
 .labeltitle {

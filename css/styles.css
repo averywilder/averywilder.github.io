@@ -98,11 +98,8 @@ li.listMiddle{
   transform: translate(-50%,-50%);
 }
 #subtitle{
-  z-index: 2;
-  top:50px;
-  position: absolute;
-  font-style: italic;
-  text-align: center;
+
+  font-style: italic;  
   color: #707070;
 
 }

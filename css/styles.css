@@ -239,3 +239,6 @@ li.listMiddle{
   transform: translate(-2%,0%);
 
 }
+#headerContainer{
+  background-color: white;
+}

@@ -223,11 +223,11 @@ li.listMiddle{
 }
 #headerBackground{
   z-index: -1;
-  height: 300px;
+  height: 125px;
   background-color: white;
   width:100%;
   position: absolute;
-  top:-150px;
+  top:25px;
 }
 #footerBackground{
   z-index: 0;

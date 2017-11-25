@@ -28,7 +28,7 @@ a {
 
 }
 .container-fluid{
-
+    z-index: 1;
     font-family: 'Buskerville Small Caps';
     top: 116px;
     position: absolute;

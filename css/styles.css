@@ -166,6 +166,15 @@ li.listMiddle{
   -webkit-scroll-snap-coordinate: 50% 50%;
   scroll-snap-coordinate: 50% 50%;
 }
+@media screen and (max-device-width: 480px){
+.one {
+  background: url("/images/selfportrait3.png") no-repeat;
+  background-size: 475px 475px;
+  background-position: center;
+  -webkit-scroll-snap-coordinate: 50% 50%;
+  scroll-snap-coordinate: 50% 50%;
+}
+}
 
 .two {
   background: url("/images/mama.png") no-repeat;

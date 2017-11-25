@@ -162,6 +162,11 @@ li.listMiddle{
   height: 475px;
   max-width: 90%;
   width: auto;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+
 
 }
 

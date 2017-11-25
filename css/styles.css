@@ -161,7 +161,7 @@ li.listMiddle{
 
 .one {
   background: url("/images/selfportrait3.png") no-repeat;
-  background-size: 85vh 85vw;
+  background-size: 475px 475px;
   background-position: center;
   -webkit-scroll-snap-coordinate: 50% 50%;
   scroll-snap-coordinate: 50% 50%;

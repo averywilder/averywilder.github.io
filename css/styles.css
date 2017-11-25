@@ -60,7 +60,7 @@ li.listMiddle{
 
   font-family: 'Buskerville Small Caps';
   font-size: 35px;
-  top: 10px;
+  top: 5px;
   position: absolute;
   left: 50%;
   transform: translate(-50%,0%);
@@ -107,7 +107,7 @@ li.listMiddle{
 
   font-style: italic;
   color: #707070;
-  top:86px;
+  top:80px;
   position: absolute;
   left: 50%;
   transform: translate(-55%,-55%);

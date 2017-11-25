@@ -158,14 +158,20 @@ li.listMiddle{
 }
 
 
+#selfportrait3{
+  height: auto;
+  max-width: 90%;
+  width: auto;
+
+}
 
 .one {
-  background: url("/images/selfportrait3.png") no-repeat;
-  background-size: 400px 400px;
+
   background-position: center;
   -webkit-scroll-snap-coordinate: 50% 50%;
   scroll-snap-coordinate: 50% 50%;
 }
+
 
 .two {
   background: url("/images/mama.png") no-repeat;

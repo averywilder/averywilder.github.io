@@ -63,6 +63,7 @@ li.listMiddle{
   top: -25px;
   position: absolute;
   left: 50%;
+  transform: translate(-50%,-50%);
 
 }
 #linebreaktop{
@@ -108,6 +109,7 @@ li.listMiddle{
   top:50px;
   position: absolute;
   left: 50%;
+  transform: translate(-50%,-50%);
 }
 
 .labeltitle {

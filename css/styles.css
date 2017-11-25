@@ -17,6 +17,9 @@ a {
  html ,body{
    overflow: hidden;
  }
+ *{
+   border: 1px solid red;
+ }
 #hostfooter{
   z-index: 1;
   text-align: center;

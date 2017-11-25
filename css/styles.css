@@ -224,7 +224,7 @@ li.listMiddle{
 #headerBackground{
   z-index: 0;
   height: 300px;
-  background-color: white;
+  background-color: black;
   width:100%;
   position: absolute;
   top:-150px;

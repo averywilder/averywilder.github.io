@@ -235,8 +235,8 @@ li.listMiddle{
   z-index: 0;
   background-color: white;
   width:105%;
-  height:300px;
-  bottom: -225px;
+  height:75px;
+  bottom: 0px;
   position:absolute;
   transform: translate(-2%,0%);
 

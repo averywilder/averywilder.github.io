@@ -253,8 +253,9 @@ li.listMiddle{
   background-color: white;
   position: absolute;
   width:100%;
-  height:130px;
+  height:150px;
   text-align: center;
   vertical-align: middle;
   line-height: 40px;
+  top:-20px;
 }

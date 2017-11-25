@@ -158,7 +158,18 @@ li.listMiddle{
 }
 
 
-#selfportrait3, #mama, #leon{
+#selfportrait3{
+  height: auto;
+  max-width: 100%;
+  width: 475px;
+  position: relative;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+
+
+}
+#mama{
   height: auto;
   max-width: 100%;
   width: 475px;
@@ -187,7 +198,7 @@ li.listMiddle{
 
 
 .three {
-  
+
   background-position: center;
   -webkit-scroll-snap-coordinate: 50% 50%;
   scroll-snap-coordinate: 50% 50%;

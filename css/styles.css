@@ -14,8 +14,9 @@ a {
   color:inherit;
   text-decoration: none;
  }
-
-
+ html{
+   overflow: hidden;
+ }
 #hostfooter{
   z-index: 1;
   text-align: center;

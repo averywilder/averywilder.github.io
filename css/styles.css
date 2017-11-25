@@ -168,7 +168,11 @@ li.listMiddle{
   top: 50%;
   transform: translate(-50%,-50%);
 
-
+*{
+  border-style: solid;
+    border-color: red;
+    border-width: 1px;
+}
 }
 #mama{
   height: auto;

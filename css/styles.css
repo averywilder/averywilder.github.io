@@ -196,9 +196,9 @@ li.listMiddle{
 }
 #footerBackground{
   z-index: 0;
-  background-color: black;
+  background-color: white;
   width:105%;
-  height:61px;;
+  height:75px;;
   bottom: 0px;
   position:absolute;
   transform: translate(-2%,0%);

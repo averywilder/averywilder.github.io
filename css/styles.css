@@ -59,6 +59,7 @@ li.listMiddle{
   font-family: 'Buskerville Small Caps';
   font-size: 35px;
   padding: -.25cm;
+  top: 5px;
 
 
 }
@@ -100,6 +101,7 @@ li.listMiddle{
 }
 #subtitle{
   z-index: 2;
+  top:50px;
   font-style: italic;
   text-align: center;
   color: #707070;

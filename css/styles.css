@@ -38,7 +38,7 @@ a {
     transform: translate(-60%,-50%);
     white-space: nowrap;
     overflow: hidden;
-    
+
 
 }
 li{
@@ -224,11 +224,11 @@ li.listMiddle{
 }
 #headerBackground{
   z-index: -1;
-  height: 125px;
+  height: 175px;
   background-color: white;
   width:100%;
   position: absolute;
-  top:25px;
+  top:-25px;
 }
 #footerBackground{
   z-index: 0;

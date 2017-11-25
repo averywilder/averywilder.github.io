@@ -197,9 +197,10 @@ li.listMiddle{
 #footerBackground{
   z-index: 0;
   background-color: black;
-  width:100%;
+  width:105%;
   height:61px;;
   bottom: 0px;
   position:absolute;
+  transform: translate(-2%,0%);
 
 }

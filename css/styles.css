@@ -61,7 +61,7 @@ li.listMiddle{
   font-family: 'Buskerville Small Caps';
   font-size: 35px;
   top: -25px;
-
+  position: absolute;
 
 }
 #linebreaktop{
@@ -105,6 +105,7 @@ li.listMiddle{
   font-style: italic;
   color: #707070;
   top:-25px;
+  position: absolute;
 }
 
 .labeltitle {

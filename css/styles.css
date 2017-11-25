@@ -62,6 +62,7 @@ li.listMiddle{
   font-size: 35px;
   top: -25px;
   position: absolute;
+  left: 50%;
 
 }
 #linebreaktop{
@@ -104,8 +105,9 @@ li.listMiddle{
 
   font-style: italic;
   color: #707070;
-  top:-25px;
+  top:50px;
   position: absolute;
+  left: 50%;
 }
 
 .labeltitle {

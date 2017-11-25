@@ -104,7 +104,7 @@ li.listMiddle{
 
 }
 #namepara{
-  z-index;
+  z-index: 1;
 }
 .labeltitle {
   font-family: 'Buskerville Small Caps'

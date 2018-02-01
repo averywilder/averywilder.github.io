@@ -252,7 +252,8 @@ li.listMiddle{
 }
 #tabcontainer{
   z-index: 1;
-  margin: auto;
+  position: absolute;
+  top: 300px;
 }
 #headerContainer{
   background-color: white;

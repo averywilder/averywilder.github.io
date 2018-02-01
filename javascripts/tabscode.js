@@ -9,15 +9,8 @@ $(document).ready(function(){
 		$(this).addClass('current');
 		$("#"+tab_id).addClass('current');
 	})
-  document.addEventListener('touchstart', this.touchstart);
-  document.addEventListener('touchmove', this.touchmove);
-
-  function touchstart(e) {
-    e.preventDefault()
-  }
-
-  function touchmove(e) {
-    e.preventDefault()
-  }
+  $(document).bind('touchmove', function(e) {
+	e.preventDefault();
+});
 
 })

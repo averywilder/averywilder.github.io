@@ -123,107 +123,19 @@ li.listMiddle{
   top: 50%;
   transform: translate(-50%,-50%);
   text-align: center
+  white-space: nowrap;
 }
 
 .contactContent{
   color: #707070;
   font-style: italic;
   font-family: helvetica
+
 }
 #instalink{
   color: #707070;
 }
 
-
-.docScroller {
-  background-size: 400px 400px;
-  width: 100vw;
-  height: 100vh;
-  margin: 0;
-  padding: 0;
-  white-space: nowrap;
-  overflow-x: hidden;
-  overflow: auto;
-  -webkit-overflow-scrolling: touch;
-  -webkit-scroll-snap-type: mandatory;
-      -ms-scroll-snap-type: mandatory;
-          scroll-snap-type: mandatory;
-  /* older spec implementation */
-  -webkit-scroll-snap-destination: 50% 50%;
-      -ms-scroll-snap-destination: 50% 50%;
-          scroll-snap-destination: 50% 50%;
-  -webkit-scroll-snap-points-y: repeat(100%);
-      -ms-scroll-snap-points-y: repeat(100%);
-          scroll-snap-points-y: repeat(100%);
-}
-
-.page {
-  scroll-snap-align: start;
-  width: 100%;
-  height: 100%;
-
-  vertical-align: top;
-  font-size: initial;
-}
-
-
-#selfportrait3{
-  height: auto;
-  max-width: 100%;
-  width: 475px;
-  position: relative;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%,-50%);
-
-
-}
-
-#mama{
-  height: auto;
-  max-width: 100%;
-  width: 475px;
-  position: relative;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%,-50%);
-
-
-}
-#leon{
-  height: auto;
-  max-width: 100%;
-  width: 475px;
-  position: relative;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%,-50%);
-
-
-}
-
-.one {
-
-  background-position: center;
-  -webkit-scroll-snap-coordinate: 50% 50%;
-  scroll-snap-coordinate: 50% 50%;
-}
-
-
-.two {
-
-  background-position: center;
-  -webkit-scroll-snap-coordinate: 50% 50%;
-  scroll-snap-coordinate: 50% 50%;
-}
-
-
-.three {
-
-  background-position: center;
-  -webkit-scroll-snap-coordinate: 50% 50%;
-  scroll-snap-coordinate: 50% 50%;
-}
 #imageContainerdiv{
   position: absolute;
   z-index :-2;

@@ -137,6 +137,9 @@ li.listMiddle{
   white-space: nowrap;
 
 }
+.contactinfocontent{
+  padding: 5px, 5px;
+}
 .icon{
   width:10%;
   height:10%;

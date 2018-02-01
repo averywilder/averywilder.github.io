@@ -149,6 +149,7 @@ li.listMiddle{
 .icon{
   width:25%;
   height:25%;
+  padding: 5px;
   vertical-align: middle;
 }
 #instalink{

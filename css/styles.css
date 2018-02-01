@@ -250,6 +250,9 @@ li.listMiddle{
   overflow: hidden;
 
 }
+#tabcontainer{
+  z-index: 1;
+}
 #headerContainer{
   background-color: white;
   position: absolute;

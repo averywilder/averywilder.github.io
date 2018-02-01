@@ -2,6 +2,7 @@
 <html ng-app='sampleApp'>
 
 <head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
     <script data-require="angular.js@1.4.x" src="https://code.angularjs.org/latest/angular.js" data-semver="1.4.9"></script>
     <script data-require="angular.js@1.4.x" src="https://code.angularjs.org/latest/angular-route.js" data-semver="1.4.9"></script>
@@ -11,6 +12,7 @@
     <link rel="stylesheet" href="css/github-light.css"  type="text/css" charset="utf-8">
     <script src="/javascripts/headerController.js"></script>
     <script src="/javascripts/mouseover.js"></script>
+    <script src="/javascripts/tabscode.js"></script>
     <title>Avery Wilder</title>
 </head>
 
@@ -29,7 +31,7 @@
 
 
   <hr id="linebreakmid">
-  <div class="container">
+  <div class="container" id ="tabcontainer">
 
 	<ul class="tabs">
 		<li class="tab-link current" data-tab="tab-1">Tab One</li>

@@ -27,48 +27,9 @@
 
 <hr id="linebreaktop">
 
-      <header>
 
-    <nav ng-controller="HeaderController">
-      <div class="container-fluid">
-
-        <ul>
-          <li ng-class="{ active: isActive('/')}"><a onmouseover= "changeColor(this,'#aaaaaa')" onmouseout="changeColorBack(this,'#000000')" href="#/">art</a></li>
-          <li class = "listMiddle" ng-class="{ active: isActive('/about')}"><a onmouseover= "changeColor(this,'#aaaaaa')" onmouseout="changeColorBack(this,'#000000')" href="#/about">about</a></li>
-          <li ng-class="{ active: isActive('/contact')}"><a onmouseover= "changeColor(this,'#aaaaaa')" onmouseout="changeColorBack(this,'#000000')" href="#/contact">contact</a></li>
-        </ul>
-
-      </div>
-    </nav>
-
-  </header>
   <hr id="linebreakmid">
-  <br>
-
-  <div id = "content"><ng-view></ng-view></div>
-
-<script type="text/ng-template" id="art.html">
-<div id="imageContainerdiv">
-  <div class="docScroller">
-  <div class="page one">
-    <img src = "/images/selfportrait3.png" id = "selfportrait3">
-
-  </div>
-  <div class="page two">
-    <img src = "/images/mama.png" id = "mama">
-  </div>
-  <div class="page three">
-    <img src = "/images/leon.png" id = "leon">
-  </div>
-</div>
-</div>
-</script>
-<script type="text/ng-template" id="about.html"><div>about test</div></script>
-<script type="text/ng-template" id="contact.html"><div class = "contactInfo">
-  <br><br><div class = "labeltitle">Email:</div><div class = "contactContent">vrywldr@gmail.com</div>
-  <br><br><div class = "labeltitle">Phone Number:</div><div class= "contactContent">502-314-6002</div>
-  <br><br><div class = "labeltitle">Instagram: <br> <a onmouseover= "changeColor(this,'#aaaaaa')" onmouseout="changeColorBack(this,'#707070')" id = "instalink" href="https://instagram.com/avery_wilder"><div class = "classContent">@avery_wilder</div></a></div>
-</div></script>
+  
 
 <hr id = "linebreakbot">
 <div id="footerBackground"></div>

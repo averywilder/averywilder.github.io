@@ -254,6 +254,8 @@ li.listMiddle{
   z-index: 1;
   position: absolute;
   top: 300px;
+  left: 50%;
+  transform: translate(-50%,0%);
 }
 }
 		.container{
@@ -277,7 +279,7 @@ li.listMiddle{
 		}
 
 		ul.tabs li.current{
-			
+
 			color: #222;
 		}
 

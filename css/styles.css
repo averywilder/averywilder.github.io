@@ -134,6 +134,10 @@ li.listMiddle{
   font-family: helvetica
 
 }
+.icon{
+  width:10%;
+  height:10%;
+}
 #instalink{
   color: #707070;
 }

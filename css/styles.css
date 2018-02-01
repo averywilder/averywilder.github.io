@@ -140,6 +140,7 @@ li.listMiddle{
 .icon{
   width:10%;
   height:10%;
+  vertical-align: middle;
 }
 #instalink{
   color: #707070;

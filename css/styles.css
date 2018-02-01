@@ -152,6 +152,10 @@ li.listMiddle{
   padding: 5px;
   vertical-align: middle;
 }
+.artpieces{
+  width: 25%;
+  height: 25%;
+}
 #instalink{
   color: #707070;
 }

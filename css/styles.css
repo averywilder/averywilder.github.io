@@ -17,6 +17,10 @@ a {
  html ,body{
    overflow: hidden;
    width: 100%;
+
+ }
+ body{
+   border: 1px solid transparent;
  }
 /* *{
    border: 1px solid red;

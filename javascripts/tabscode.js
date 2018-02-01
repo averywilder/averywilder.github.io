@@ -12,4 +12,7 @@ $(document).ready(function(){
   document.addEventListener('touchmove', function (event) {
     if (event.scale !== 1) { event.preventDefault(); }
   }, false);
+  document.ontouchmove = function(e){
+    e.preventDefault;
+  }
 })

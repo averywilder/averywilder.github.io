@@ -51,7 +51,9 @@ a {
 
 
 }
-
+.carousel_slide{
+  position: absolute;
+}
 
 #nameheader{
 

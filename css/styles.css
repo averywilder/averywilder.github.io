@@ -58,7 +58,7 @@ a {
 #slidercontainer{
   position: absolute;
   top: 100px;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%,-55%);
 }
 
 #slider {

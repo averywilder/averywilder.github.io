@@ -54,7 +54,6 @@ a {
 
 .image-carousel {
     width: 600px;
-    max-width: 100%;
     height: 600px;
     overflow: hidden;
     position: relative;

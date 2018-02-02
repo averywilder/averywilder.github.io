@@ -92,8 +92,8 @@ a.control_prev, a.control_next {
   z-index: 999;
   display: block;
   padding: 4% 3%;
-  width: 40px;
-  height: 100px;
+  width: auto;
+  height: auto;
   background: #2a2a2a;
   color: #fff;
   text-decoration: none;

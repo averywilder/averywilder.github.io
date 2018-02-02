@@ -193,6 +193,10 @@ a {
 
 #carousel-container{
   position: relative;
+  height: 1500px;
+  max-height: 80%;
+  width:auto;
+  max-width: 95%;
 }
 		.container{
 			width: 800px;

@@ -72,7 +72,7 @@ a {
 }
 
 #slider ul li {
-  position: absolute;
+  position: relative;
   top: 40%;
   display: block;
   float: left;

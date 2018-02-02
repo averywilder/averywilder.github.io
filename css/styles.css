@@ -59,7 +59,7 @@ a {
 #slider {
   position: relative;
   overflow: hidden;
-  /*margin: 20px auto 0 auto;*/
+  margin: 20px auto 0 auto;
   border-radius: 4px;
 }
 
@@ -77,8 +77,8 @@ a {
   float: left;
   margin: 0;
   padding: 0;
-  width: 1200px;
-  height: 1200px;
+  max-width: 100%;
+  height: auto;
   background: #ccc;
   text-align: center;
   line-height: 1200px;

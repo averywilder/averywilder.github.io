@@ -190,6 +190,9 @@ a {
   transform: translate(-50%,0%);
 
 }
+
+#carousel-container{
+  position: relative;
 }
 		.container{
 			width: 800px;

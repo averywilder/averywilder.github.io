@@ -77,11 +77,11 @@ a {
   float: left;
   margin: 0;
   padding: 0;
-  width: 1500px;
-  height: 1500px;
+  width: 1200px;
+  height: 1200px;
   background: #ccc;
   text-align: center;
-  line-height: 300px;
+  line-height: 1200px;
 }
 
 a.control_prev, a.control_next {

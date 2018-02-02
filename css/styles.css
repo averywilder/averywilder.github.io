@@ -55,7 +55,10 @@ a {
   position: absolute;
 }
 }
-
+#slidercontainer{
+  position: absolute;
+  top: 140px;
+}
 #slider {
   position: absolute;
   top: 50%;

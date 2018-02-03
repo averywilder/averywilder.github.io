@@ -126,26 +126,21 @@ div{
   white-space: nowrap;
 }
 
-.contactContent{
-  color: #707070;
-  position: relative;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,+50%);
-  font-style: italic;
-  font-family: helvetica;
-  white-space: nowrap;
 
-}
 .contactinfocontent{
   padding: 5px 5px;
   color: #707070;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
 }
 .icon{
-  width:4%;
-  height:4%;
+  width:10%;
+  height:10%;
   padding: 5px;
-  vertical-align: middle;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
 }
 .artpieces{
   max-width: 95%;

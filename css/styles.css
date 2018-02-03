@@ -139,8 +139,8 @@ a {
   transform: translateX(-50%);
 }
 .artpieces{
-  width: 100vw;
-  height: 100vh;
+  width: auto;
+  height: 80vh;
 }
 #instalink{
   color: #707070;

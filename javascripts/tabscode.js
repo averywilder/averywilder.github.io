@@ -12,8 +12,5 @@ $(document).ready(
 		$(this).addClass('current');
 		$("#"+tab_id).addClass('current');
 	})
-  $(document).bind('touchmove', function(e) {
-	e.preventDefault();
-});
 
-})
+});

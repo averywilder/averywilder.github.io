@@ -181,6 +181,7 @@ div{
   position: absolute;
   top: 98px;
   left: 50%;
+  width: 100%;
   justify-content: center;
   transform: translateX(-50%);
 

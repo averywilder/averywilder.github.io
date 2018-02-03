@@ -189,7 +189,8 @@ div{
 
 #carousel-container{
   position: relative;
-  height: 500px;
+  top: 50%;
+  height: 95%;
   max-height: 80%;
   width:auto;
   max-width: 95%;

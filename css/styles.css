@@ -21,7 +21,7 @@ a {
    overflow-y: hidden;
    width: 100%;
 
- 
+
 }
  body{
    padding-bottom: 20px;
@@ -189,7 +189,7 @@ div{
 
 #carousel-container{
   position: relative;
-  height: 1500px;
+  height: 500px;
   max-height: 80%;
   width:auto;
   max-width: 95%;

@@ -229,6 +229,7 @@ div{
 			display: none;
       position: relative;
       width: 100%;
+      top: 100px;
 			padding: 15px;
       font-family: helvetica;
       font-style: italic;

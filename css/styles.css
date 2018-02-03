@@ -146,8 +146,6 @@ div{
   height:4%;
   padding: 5px;
   vertical-align: middle;
-  position: absolute;
-  left: 50%;
 }
 .artpieces{
   max-width: 95%;
@@ -183,7 +181,7 @@ div{
   position: absolute;
   top: 98px;
   left: 50%;
-  width: 100%;
+
   justify-content: center;
   transform: translateX(-50%);
 

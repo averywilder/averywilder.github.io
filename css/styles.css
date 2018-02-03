@@ -180,7 +180,7 @@ a {
   position: absolute;
   top: 98px;
   left: 50%;
-  transform: translate(-50%);
+
 
 }
 
@@ -203,6 +203,7 @@ a {
 			padding: 0px;
 			list-style: none;
       position: relative;
+      left: 50%;
       margin: 0 auto;
 
 		}

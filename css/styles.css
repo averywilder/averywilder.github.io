@@ -227,10 +227,13 @@ div{
 		.tab-content{
 			display: none;
       position: absolute;
-      top:50px;
+      top:50%;
+      transform: translateY(-50%);
+      width: 100%;
 			padding: 15px;
       font-family: helvetica;
       font-style: italic;
+      justify-content: center;
 
 		}
 

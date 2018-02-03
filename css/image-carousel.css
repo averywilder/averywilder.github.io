@@ -1,6 +1,8 @@
 .image-carousel {
   width: 500px;
   height: 500px;
+  max-width: 95%;
+  max-height: 80%;
   overflow: hidden;
   position: relative;
 }

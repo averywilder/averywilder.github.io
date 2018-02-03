@@ -9,9 +9,8 @@ let carousels = document.getElementsByClassName('image-carousel');
         currentImageIndex = 0,
         art = inner.getElementsByClassName(artpieces)[0],
         width = art.width()/art.parent().width()*100,
-        alert(width);
         bubbles = [];
-
+        alert(width);
     for (let i = 0; i < imgs.length; i++) {
         let b = document.createElement('span');
         b.classList.add('bubble');

@@ -10,8 +10,7 @@ let carousels = document.getElementsByClassName('image-carousel');
         bubbles = [];
         if(document.documentElement.clientWidth<=500){
           let width = document.documentElement.clientWidth;
-        }
-        else{
+        }else{
           let width = 500;
         }
         alert(width);

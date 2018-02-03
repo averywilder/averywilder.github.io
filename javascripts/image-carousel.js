@@ -7,8 +7,11 @@ let carousels = document.getElementsByClassName('image-carousel');
         inner = c.getElementsByClassName('inner')[0],
         imgs = inner.getElementsByTagName('img'),
         currentImageIndex = 0,
-        bubbles = [],
-        width = document.documentElement.clientWidth;
+        bubbles = [];
+        if(document.documentElement.clientWidth<=500){
+          width = document.documentElement.clientWidth;
+        }
+          width = 500;
         alert(width);
 
     for (let i = 0; i < imgs.length; i++) {

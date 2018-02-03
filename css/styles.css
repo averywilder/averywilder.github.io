@@ -130,9 +130,10 @@ div{
 .contactinfocontent{
   padding: 5px 5px;
   color: #707070;
-  position: relative;
+  position: absolute;
   left: 50%;
   transform: translateX(-50%);
+
 }
 .icon{
   width:7%;

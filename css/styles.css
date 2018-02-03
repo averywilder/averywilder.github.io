@@ -136,7 +136,7 @@ div{
   transform: translateX(-50%);
 }
 .artpieces{
-  max-width: 95%;
+  max-width: 100%;
 
   width: 500px;
   height: 500px;

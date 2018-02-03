@@ -181,6 +181,7 @@ div{
   top: 98px;
   left: 50%;
   transform: translate(-50%);
+  width: 100%;
 
 
 }
@@ -205,7 +206,8 @@ div{
 			list-style: none;
       position: relative;
       left: 50%;
-      margin: 0 auto;
+      transform: translate(-50%);
+
 
 		}
 		ul.tabs li{

@@ -15,7 +15,7 @@ a {
   text-decoration: none;
  }
  html ,body{
-   touch-action: pinch-zoom;
+   touch-action: manipulation;
    overflow-x: hidden;
    overflow-y: hidden;
    width: 100%;

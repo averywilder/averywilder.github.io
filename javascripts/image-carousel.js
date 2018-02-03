@@ -8,7 +8,8 @@ let carousels = document.getElementsByClassName('image-carousel');
         imgs = inner.getElementsByTagName('img'),
         currentImageIndex = 0,
         bubbles = [],
-        width = 500;
+        width = document.documentElement.clientWidth;
+        alert(width);
 
     for (let i = 0; i < imgs.length; i++) {
         let b = document.createElement('span');

@@ -197,7 +197,10 @@ div{
 			margin: 0 auto;
 		}*/
 
-
+div.tabcontainer{
+  position: relative;
+  left: 50%;
+}
 
 		ul.tabs{
 			margin: 0px;

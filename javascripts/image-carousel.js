@@ -9,9 +9,11 @@ let carousels = document.getElementsByClassName('image-carousel');
         currentImageIndex = 0,
         bubbles = [];
         if(document.documentElement.clientWidth<=500){
-          width = document.documentElement.clientWidth;
+          let width = document.documentElement.clientWidth;
         }
-          width = 500;
+        else{
+          let width = 500;
+        }
         alert(width);
 
     for (let i = 0; i < imgs.length; i++) {

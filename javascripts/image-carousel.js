@@ -9,7 +9,7 @@ let carousels = document.getElementsByClassName('image-carousel');
         currentImageIndex = 0,
         width = 500;
         bubbles = [];
-        alert(width);
+      
     for (let i = 0; i < imgs.length; i++) {
         let b = document.createElement('span');
         b.classList.add('bubble');

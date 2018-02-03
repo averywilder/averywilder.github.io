@@ -7,8 +7,7 @@ let carousels = document.getElementsByClassName('image-carousel');
         inner = c.getElementsByClassName('inner')[0],
         imgs = inner.getElementsByTagName('img'),
         currentImageIndex = 0,
-        art = inner.getElementsByClassName(artpieces)[0],
-        width = art.width()/art.parent().width()*100,
+        width = 500;
         bubbles = [];
         alert(width);
     for (let i = 0; i < imgs.length; i++) {

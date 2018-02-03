@@ -209,6 +209,8 @@ a {
 			margin: 0px;
 			padding: 0px;
 			list-style: none;
+      position: relative;
+      left:50%;
 		}
 		ul.tabs li{
 			background: none;

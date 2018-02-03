@@ -222,8 +222,9 @@ div{
 
 		.tab-content{
 			display: none;
-      position: absolute;
-      top: 100px;
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
 			padding: 15px;
 		}
 

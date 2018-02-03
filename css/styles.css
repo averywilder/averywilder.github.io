@@ -191,10 +191,10 @@ div{
   width:auto;
   max-width: 95%;
 }
-		.container{
+		/*.container{
 			width: 800px;
 			margin: 0 auto;
-		}
+		}*/
 
 
 
@@ -203,8 +203,7 @@ div{
 			padding: 0px;
 			list-style: none;
       position: relative;
-      left: 50%;
-      transform: translate(-50%);
+
 
 
 		}

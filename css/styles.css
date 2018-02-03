@@ -136,8 +136,8 @@ div{
 
 }
 .icon{
-  width:7%;
-  height:7%;
+  width:40px;
+  height:40px;
   padding: 5px;
   position: relative;
   left: 50%;
@@ -229,7 +229,7 @@ div{
 			padding: 15px;
       font-family: helvetica;
       font-style: italic;
-      justify-content: center;
+
 
 		}
 

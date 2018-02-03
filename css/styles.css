@@ -207,8 +207,6 @@ div{
 			list-style: none;
       position: relative;
 
-
-
 		}
 		ul.tabs li{
 			background: none;
@@ -216,8 +214,7 @@ div{
 			display: inline-block;
 			padding: 10px 10px;
 			cursor: pointer;
-      float: left;
-      right: 50%;
+
 		}
 
 		ul.tabs li.current{

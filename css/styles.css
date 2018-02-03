@@ -216,7 +216,7 @@ div{
 		.tab-content{
 			display: none;
       position: relative;
-      top: 55%;
+      top: 50%;
       transform: translateY(-50%);
 			padding: 0px;
       font-family: helvetica;
@@ -224,6 +224,10 @@ div{
 
 
 		}
+    #tab-1{
+      position: relative;
+      top: 55%;
+    }
 
 		.tab-content.current{
 			display: inherit;

@@ -178,7 +178,7 @@ div{
 
 #carousel-container{
   position: relative;
-  top: 52%;
+  bottom: 0px;
   height: 100%;
   width:100%;
   justify-content: center;

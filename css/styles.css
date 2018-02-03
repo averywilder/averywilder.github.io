@@ -179,8 +179,10 @@ div{
 #tabcontainer{
   z-index: 1;
   position: absolute;
-  top: 50%;
+  top: 98px;
   left: 50%;
+  justify-content: center;
+  transform: translateX(-50%);
 
 
 }

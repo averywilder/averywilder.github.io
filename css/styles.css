@@ -207,6 +207,7 @@ div{
 			list-style: none;
       position: absolute;
       left:50%;
+      transform: translateX(-50%);
 
 		}
 		ul.tabs li{

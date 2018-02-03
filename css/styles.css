@@ -180,6 +180,7 @@ div{
   position: absolute;
   top: 98px;
   left: 50%;
+  transform: translate(-50%);
 
 
 }

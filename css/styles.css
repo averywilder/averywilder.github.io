@@ -181,6 +181,7 @@ div{
   top: 50%;
   height: 100%;
   width:100%;
+  justify-content: center;
 }
 		/*.container{
 			width: 800px;

@@ -183,7 +183,6 @@ a {
   z-index: 1;
   position: absolute;
   left: 50%;
-  justify-content: center;
   transform: translateX(-50%);
 
 

@@ -184,9 +184,8 @@ a {
   position: absolute;
   top: 0px;
   left: 50%;
-  
   justify-content: center;
-  transform: translateX(-50%);
+  
 
 
 }

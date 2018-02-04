@@ -143,9 +143,17 @@ a {
   width: 10vw;
   height: auto;
 }
+}
 .artpieces{
   width: 500px;
   height: 500px;
+}
+.contentview{
+  border: 1px solid red;
+  width: 100%;
+  position: absolute;
+  top: 90px;
+  bottom: 69px;
 }
 }
 #instalink{

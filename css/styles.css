@@ -227,7 +227,7 @@ a {
 			color: #222;
 		}
 
-		/*.tab-content{
+		.tab-content{
 			display: none;
       position: relative;
       top: 50%;
@@ -236,20 +236,20 @@ a {
       font-style: italic;
 
 
-		}*/
+		}
     #tab-3{
-      display: none;
+
       position: relative;
       transform: translateX(-50%);
       left: 50%;
-      
+
       padding: 0px;
       font-family: helvetica;
       font-style: italic;
 
     }
     #tab-2{
-      display: none;
+
       position: relative;
       transform: translateX(-50%);
       left: 50%;
@@ -259,7 +259,7 @@ a {
       font-style: italic;
     }
     #tab-1{
-      display: none;
+  
       position: relative;
       transform: translateX(-50%);
       left: 50%;

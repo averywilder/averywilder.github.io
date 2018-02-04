@@ -30,9 +30,9 @@ a {
    padding-bottom: 20px;
 
  }
-/*div{
+div{
    border: 1px solid red;
- }*/
+ }
 #hostfooter{
   z-index: 1;
   text-align: center;
@@ -182,7 +182,7 @@ a {
 #tabcontainer{
   z-index: 1;
   position: absolute;
-  left: 50%;
+  left: 0%;
   transform: translateX(-50%);
 
 

@@ -182,9 +182,9 @@ a {
 #tabcontainer{
   z-index: 1;
   position: absolute;
-  top: 0%
+  top: 0px;
   left: 50%;
-  bottom: 69px;
+  
   justify-content: center;
   transform: translateX(-50%);
 

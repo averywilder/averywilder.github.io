@@ -181,7 +181,7 @@ a {
 }
 #tabcontainer{
   z-index: 1;
-  position: relative;
+  position: absolute;
   left: 50%;
   justify-content: center;
   transform: translateX(-50%);
@@ -241,7 +241,7 @@ a {
 
       position: relative;
       transform: translateX(-50%);
-      
+
       top:50%;
       padding: 0px;
       font-family: helvetica;

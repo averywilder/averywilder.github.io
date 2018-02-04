@@ -241,7 +241,7 @@ a {
       position: absolute;
       transform: translateX(-50%);
       left: 50%;
-      top:50%;
+      bottom: 50%;
 
     }
     #tab-1{

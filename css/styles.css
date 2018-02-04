@@ -181,7 +181,7 @@ a {
 }
 #tabcontainer{
   z-index: 1;
-  position: relative;
+  position: absolute;
   top: 0%
   left: 50%;
   bottom: 69px;

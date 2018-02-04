@@ -152,7 +152,7 @@ a {
   border: 1px solid red;
   width: 100%;
   position: absolute;
-  top: 90px;
+  top: 98px;
   bottom: 69px;
 }
 
@@ -181,8 +181,8 @@ a {
 }
 #tabcontainer{
   z-index: 1;
-  position: absolute;
-  top: 98px;
+  position: relative;
+  top: 0%
   left: 50%;
   bottom: 69px;
   justify-content: center;

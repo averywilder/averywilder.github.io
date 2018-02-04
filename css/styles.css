@@ -237,6 +237,11 @@ a {
 
 
 		}
+    #tab-3{
+      position: relative;
+      top:50%;
+
+    }
     #tab-1{
       position: relative;
       top: 53%;

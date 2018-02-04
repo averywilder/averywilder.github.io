@@ -194,6 +194,7 @@ a {
   bottom: 0px;
   height: 100%;
   width:100%;
+  justify-content: center;
 }
 		/*.container{
 			width: 800px;
@@ -236,11 +237,7 @@ a {
 
 		}
 
-    #tab-3{
-      
-      top: 50%;
 
-    }
 		.tab-content.current{
 			display: inherit;
 		}

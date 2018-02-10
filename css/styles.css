@@ -210,5 +210,6 @@ padding: 2vh;
   transform: translate(-50%,-50%);
   font-family: times;
   font-size: 2.2vh;
-  
+  font-style: italic;
+  color: #b3b3b3
 }

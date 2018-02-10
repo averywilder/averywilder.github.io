@@ -34,18 +34,23 @@ border: 1px solid red;
 	transform: translateX(-50%);
 
 }
-
+@media screen and (min-width: 400px) {
+  .carousel{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+  }
+}
 .carousel{
 	height:100%;
 	width: auto;
 	overflow: hidden;
 
-
-}@media screen and (min-width: 400px) {
+}
+@media screen and (min-width: 400px) {
   .carousel-item{
     width:100%;
   }
-
 }
 .carousel-item{
 width: 70vh;

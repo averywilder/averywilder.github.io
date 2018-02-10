@@ -218,6 +218,7 @@ div{
 			display: none;
       position: absolute;
       transform: translateX(-50%);
+      top: 50%;
 			padding: 0px;
       font-family: helvetica;
       font-style: italic;

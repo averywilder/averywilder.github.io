@@ -41,6 +41,11 @@ border: 1px solid red;
 	overflow: hidden;
 
 
+}@media screen and (min-width: 400px) {
+  .carousel-item{
+    width:100%;
+  }
+
 }
 .carousel-item{
 width: 70vh;

@@ -44,7 +44,7 @@ border: 1px solid red;
   .carousel{
     width: 95vw;
     height: auto;
-    top: 50%;
+    top: 1vh;
     overflow: hidden;
   }
 }
@@ -133,6 +133,7 @@ bottom: 0;
 #hostfooter{
 position:absolute;
 z-index: 1;
+font-size: 1vh;
   text-align: center;
   font-family: 'Buskerville Small Caps';
   white-space: nowrap;

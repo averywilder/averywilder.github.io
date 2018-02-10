@@ -42,7 +42,7 @@ border: 1px solid red;
 }
 @media screen and (min-width: 400px) {
   .carousel{
-    width: 95vh;
+    width: 20vh;
     height: auto;
     overflow: hidden;
   }
@@ -55,7 +55,7 @@ width: 70vh;
 }
 @media screen and (min-width: 400px) {
   .carousel-item{
-    width:95vh;
+    width:20vh;
     height: auto;
   }
 }

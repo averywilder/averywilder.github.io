@@ -82,7 +82,7 @@ left:50%;
 transform: translateX(-50%);
 top: 7vh;
 font-style: italic;
-  color: #707070;
+  color: #b3b3b3;
   position: absolute;
   font-size: 2.2vh;
 
@@ -166,7 +166,7 @@ a:link{
   text-decoration: none;
 }
 a:hover{
- 	color:#707070;
+ 	color:#b3b3b3;
 
  }
 #contactContainer{

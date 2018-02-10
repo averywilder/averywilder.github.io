@@ -34,6 +34,12 @@ border: 1px solid red;
 	transform: translateX(-50%);
 
 }
+.carousel{
+	height:100%;
+	width: auto;
+	overflow: hidden;
+
+}
 @media screen and (min-width: 400px) {
   .carousel{
     width: 95vh;
@@ -41,10 +47,10 @@ border: 1px solid red;
     overflow: hidden;
   }
 }
-.carousel{
-	height:100%;
-	width: auto;
-	overflow: hidden;
+
+.carousel-item{
+width: 70vh;
+
 
 }
 @media screen and (min-width: 400px) {
@@ -53,11 +59,7 @@ border: 1px solid red;
     height: auto;
   }
 }
-.carousel-item{
-width: 70vh;
 
-
-}
 #headerContainer{
 position: absolute;
 width: 100%;

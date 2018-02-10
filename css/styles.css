@@ -85,6 +85,7 @@ font-style: italic;
   color: #b3b3b3;
   position: absolute;
   font-size: 2.2vh;
+  font-family: times;
 
 }
 #footerContainer{
@@ -197,7 +198,8 @@ a:hover{
 
 }
 .contactinfocontent{
-font-family: helvetica;
+font-family: times;
+font-style: italic;
 display: inline-block;
 padding: 2vh;
 }

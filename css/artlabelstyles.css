@@ -1,5 +1,19 @@
-.arttitle {
+@font-face {
+    font-family: 'Buskerville Small Caps';
+    src: url('/css/fonts/basker_small_caps-webfont.eot');
+    src: url('/css/fonts/basker_small_caps-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/css/fonts/basker_small_caps-webfont.woff2') format('woff2'),
+         url('/css/fonts/basker_small_caps-webfont.woff') format('woff'),
+         url('/css/fonts/basker_small_caps-webfont.ttf') format('truetype'),
+         url('/css/fonts/basker_small_caps-webfont.svg#baskerville_small_casmallcaps') format('svg');
+    font-weight: normal;
+    font-style: normal;
 
+}
+
+.arttitle {
+  font-family: 'Buskerville Small Caps';
+  font-size: 5vh;
 }
 
 .artinfo{
@@ -9,6 +23,6 @@
 .artlabelinfo{
     position: fixed;
     top: 50%;
-    left: 50;
+    left: 50%;
     transform: translate(-50%,-50%);
 }

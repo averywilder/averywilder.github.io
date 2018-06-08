@@ -31,7 +31,7 @@
     left: 5%;
     right: 5%;
     transform: translate(0,-50%);
-    box-shadow: 4px 4px #888888;
+    box-shadow: 4px 4px rgba(0,0,0,0.5);
 }
 #homebutton {
   position: fixed;
@@ -39,5 +39,5 @@
   border: 1px solid black;
   top:2%;
   right:2%;
-  box-shadow: 2px 2px #888888;
+  box-shadow: 2px 2px rgba(0,0,0,0.5);
 }

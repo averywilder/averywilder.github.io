@@ -10,7 +10,7 @@
     font-style: normal;
 
 }
-
+@media screen and (orientation:portrait) {
 .arttitle {
   font-family: 'Buskerville Small Caps';
   font-size: 3vh;
@@ -20,6 +20,19 @@
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
  font-weight: 300;
  font-size: 1.5vh;
+}
+}
+@media screen and (orientation:landscape) {
+.arttitle {
+  font-family: 'Buskerville Small Caps';
+  font-size: 3vw;
+}
+
+.artinfo{
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+ font-weight: 300;
+ font-size: 1.5vw;
+}
 }
 
 .artlabelinfo{

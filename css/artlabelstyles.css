@@ -32,3 +32,9 @@
     right: 5%;
     transform: translate(0,-50%);
 }
+#homebutton {
+  position: fixed;
+  padding: 5px;
+  top:2%;
+  right:2%;
+}

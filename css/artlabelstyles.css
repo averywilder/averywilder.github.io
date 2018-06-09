@@ -38,6 +38,7 @@
 .artlabelinfo{
     padding: 10px;
     padding-left: 25px;
+    padding-right: 25px;
     border: 1px solid black;
     position: fixed;
     top: 50%;

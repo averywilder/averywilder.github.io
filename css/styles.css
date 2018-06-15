@@ -216,12 +216,23 @@ padding: 2vh;
   color: #b3b3b3;
   text-align: center;
   overflow: auto;
+  margin: 10vh;
 
 
 }
+@media screen and (min-width: 420px) {
+  #aboutContents{
+    margin-left: 25vw;
+    margin-right: 25vw;
+
+
+  }
+
+}
+
 #aboutContentsinner{
-  position: absolute;
-  top: 50%;
+  position: relative;
+  top: 40%;
   left: 50%;
   transform: translate(-50%,-50%);
 }

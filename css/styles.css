@@ -216,6 +216,7 @@ padding: 2vh;
   color: #b3b3b3;
   text-align: center;
   margin: 10vh;
+  overflow: auto;
 
 
 }
@@ -230,10 +231,9 @@ padding: 2vh;
 }
 @media screen and (max-width: 420px) {
   #aboutContents{
-    font-size: 2.0vh;
-    overflow: auto;
-    top:14vh;
-    margin-top: -10vh;
+    font-size: 2.0vw;
+
+
   }
 }
 

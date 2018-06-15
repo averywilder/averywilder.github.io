@@ -208,12 +208,14 @@ padding: 2vh;
 }
 #aboutContents{
   position: absolute;
-  top: 13.1vh;
+  top: 17.1vh;
   bottom: 7.6vh;
   font-family: times;
   font-size: 2.2vh;
   font-style: italic;
-  color: #b3b3b3
+  color: #b3b3b3;
+  text-align: center;
+  overflow: auto;
 
 }
 .carousel-control-next{

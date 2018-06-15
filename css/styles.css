@@ -215,7 +215,7 @@ padding: 2vh;
   font-style: italic;
   color: #b3b3b3;
   text-align: center;
-  overflow: auto;
+  overflow-y: scroll;
   margin: 10vh;
 
 
@@ -232,9 +232,9 @@ padding: 2vh;
 
 #aboutContentsinner{
   position: relative;
-  top: 40%;
+  top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%,-35%);
 }
 .carousel-control-next{
 	margin-right: -2.3vw;

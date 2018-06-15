@@ -208,17 +208,13 @@ padding: 2vh;
 }
 #aboutContents{
   position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%,-50%);
+  top: 13.1vh;
+  bottom: 7.6vh;
   font-family: times;
   font-size: 2.2vh;
   font-style: italic;
   color: #b3b3b3
-}
-#aboutTitle{
-  font-family: 'Buskerville Small Caps';
-  font-size: 5vh;
+
 }
 .carousel-control-next{
 	margin-right: -2.3vw;

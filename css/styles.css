@@ -216,6 +216,10 @@ padding: 2vh;
   font-style: italic;
   color: #b3b3b3
 }
+#aboutTitle{
+  font-family: Buskerville;
+  font-size: 5vh;
+}
 .carousel-control-next{
 	margin-right: -2.3vw;
 }

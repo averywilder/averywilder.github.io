@@ -219,6 +219,12 @@ padding: 2vh;
 
 
 }
+#aboutContentsinner{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
 .carousel-control-next{
 	margin-right: -2.3vw;
 }

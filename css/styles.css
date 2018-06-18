@@ -45,7 +45,7 @@ border: 1px solid red;
   .carousel{
     width: 95vw;
     height: auto;
-    top: 3vh;
+    /*top: 3vh;*/
     overflow: hidden;
   }
 }
